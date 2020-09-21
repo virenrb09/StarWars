@@ -1,0 +1,2 @@
+include ':app', ':starwars-api-bridge', ':starwars-api', 'starwars-ui'
+rootProject.name = "StarWars"

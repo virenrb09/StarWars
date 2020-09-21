@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">starwars-ui</string>
+    <string name="name_transition">name_transition</string>
+    <string name="logo">logo</string>
+    <string name="search_title">Character Search</string>
+    <string name="character_name_hint">Please enter character name</string>
+    <string name="search">Search</string>
+    <string name="retry">Retry?</string>
+    <string name="api_error_msg">Something went wrong!</string>
+
+
+    // character details
+    <string name="back">back</string>
+    <string name="species">Species :</string>
+    <string name="height">Height :</string>
+    <string name="planet">Planet :</string>
+    <string name="birth_date">Birth Date :</string>
+    <string name="population">Population :</string>
+    <string name="language">Language:</string>
+    <string name="movies">Movies</string>
+    <string name="character_height">%1s cm | %2s ft | %3s in</string>
+    <string name="planet_language_is">Language: %1s</string>
+    <string name="character_planet_name_is">%1s</string>
+    <string name="planet_population_is">%1s</string>
+
+    // movie adapter
+    <string name="movie_release_date_is">( Release date : %1s )</string>
+    <string name="movie_opening_is">Opening crawl: %1s</string>
+
+
+</resources>
